@@ -123,7 +123,7 @@
 
 1. 下記のコマンドで CPU に 10 分間負荷をかけます。
     ```
-    stress-ng --cpu 0 --timeout 10m`
+    stress-ng --cpu 0 --timeout 10m
     ```
 
 1. 10分後、EC2 のコンソールに戻ります。
