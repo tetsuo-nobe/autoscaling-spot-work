@@ -2,7 +2,7 @@
 
 * このワークでは、SPOT インスタンスを使用する EC2 AutoScaling  の環境を作成します。
 
-![概要](images/xxx.png)
+![概要](images/asg.png)
 
 ---
 ## 準備
